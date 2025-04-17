@@ -1,3 +1,0 @@
-
-Player name:a
-Player age:1
